@@ -7,12 +7,9 @@
 # account setting page. Once this done the user will be able to send emails to any
 # account
 # 
-#
+# Egbie Uku
 #
 ###############################################################################
-
-
-
 
 import smtplib
 from email.mime.multipart import MIMEMultipart
